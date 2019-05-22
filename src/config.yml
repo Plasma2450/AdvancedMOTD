@@ -1,0 +1,10 @@
+motd: "                    §c-=§6§lAdvancedMOTD§c=-                                                 §aby §d§n§l$lack"
+playerCount: false
+versionMessage: "§b§lSupported Versions: §c=§r§a§l1.8-1.14.1§c=§r"
+hoverMessages:
+    - "§c-=§6§lAdvancedMOTD§c=-"
+    - "§aYou can set text here"
+    - "§cMake it whatever you want"
+    - "§eIt's pretty cool!"
+    - "§bLike you for downloading this!"
+    - "§d@players@ players online"

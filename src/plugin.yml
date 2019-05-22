@@ -1,0 +1,9 @@
+name: AdvancedMOTD
+version: 1.0
+main: AdvancedMOTD.Main
+depend: [ProtocolLib]
+api-version: 1.14
+commands:
+    motdreload:
+        description: "Reloads AdvancedMOTD config"
+        usage: "/motdreload"
